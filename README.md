@@ -7,6 +7,11 @@
 Memory efficinet minimalist streaming XLSX reader that can handle piped 
 streams as input. Events are emmited while reading the stream.
 
+======
+```sh
+npm i @queroedu/xlsx-stream-reader
+```
+
 Example
 
 More examples can be found if `example` folder
